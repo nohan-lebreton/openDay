@@ -1,3 +1,17 @@
+# [2.0.0](https://github.com/nohan-lebreton/openDay/compare/v1.0.0...v2.0.0) (2024-11-29)
+
+
+### Features
+
+* test ([9db5713](https://github.com/nohan-lebreton/openDay/commit/9db5713625a467f4f2935813c0d451310267f464))
+* test ([c8a9609](https://github.com/nohan-lebreton/openDay/commit/c8a96092ccfe4c36c4fcba05d0794af38c88eb0c))
+
+
+### BREAKING CHANGES
+
+* test2
+* test2
+
 # 1.0.0 (2024-11-29)
 
 
