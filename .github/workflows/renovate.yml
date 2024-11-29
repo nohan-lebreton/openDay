@@ -21,4 +21,3 @@ jobs:
         uses: renovatebot/github-action@v41.0.3
         with:
           token: ${{ secrets.GH_TOKEN }} 
-          autodiscover: true
