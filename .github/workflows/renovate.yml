@@ -20,4 +20,4 @@ jobs:
       - name: Run Renovate
         uses: renovatebot/github-action@v41.0.3
         with:
-          token: ${{ secrets.GH_TOKEN }} 
+          GITHUB_COM_TOKEN: ${{ secrets.GH_TOKEN }} 
