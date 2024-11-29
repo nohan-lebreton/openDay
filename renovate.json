@@ -1,10 +1,11 @@
 {
-    "extends": ["config:base"],
-    "schedule": ["every hour"],
+    "extends": ["config:recommended"],
+    "schedule": ["at every 1h"],
     "packageRules": [
-        {
-            "matchDepTypes": ["dependencies", "devDependencies"],
-            "automerge": true
-        }
+      {
+        "matchDepTypes": ["dependencies", "devDependencies"],
+        "automerge": true
+      }
     ]
-}
+  }
+  
