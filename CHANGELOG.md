@@ -1,3 +1,10 @@
+# [2.1.0](https://github.com/nohan-lebreton/openDay/compare/v2.0.0...v2.1.0) (2024-11-29)
+
+
+### Features
+
+* test ([f31b5e3](https://github.com/nohan-lebreton/openDay/commit/f31b5e336628e715cfb45bb8221e769beb411afc))
+
 # [2.0.0](https://github.com/nohan-lebreton/openDay/compare/v1.0.0...v2.0.0) (2024-11-29)
 
 
