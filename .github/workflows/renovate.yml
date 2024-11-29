@@ -1,6 +1,9 @@
 name: Renovate Workflow
 
 on:
+  push: 
+    branches:
+      - master
   pull_request: 
   workflow_dispatch: 
   schedule:
