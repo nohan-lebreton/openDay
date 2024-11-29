@@ -1,0 +1,10 @@
+{
+    "extends": ["config:base"],
+    "schedule": ["every weekend"],
+    "packageRules": [
+        {
+            "matchDepTypes": ["dependencies", "devDependencies"],
+            "automerge": true
+        }
+    ]
+}
