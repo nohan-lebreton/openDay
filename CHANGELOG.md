@@ -1,3 +1,11 @@
+## [2.1.13](https://github.com/nohan-lebreton/openDay/compare/v2.1.12...v2.1.13) (2024-11-29)
+
+
+### Bug Fixes
+
+* renovate ([25cd14e](https://github.com/nohan-lebreton/openDay/commit/25cd14eac6f5c236f0202066f99b7330682ec356))
+* renovate ([38af749](https://github.com/nohan-lebreton/openDay/commit/38af7495bf389c24ef432ca619da5522f960879f))
+
 ## [2.1.12](https://github.com/nohan-lebreton/openDay/compare/v2.1.11...v2.1.12) (2024-11-29)
 
 
